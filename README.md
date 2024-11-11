@@ -1,2 +1,3 @@
-# nlp_and_deep_learning
+# NLP and Deep Learning
 Final presentation for NLP and Deep Learning training course
+
